@@ -39,9 +39,9 @@ import requestCameraAndAudioPermission from './Permission';
  import styles from './Styles';
  
  const config = {
-     token: '0064d4a074147a54c8c882fcbf31b1ac9efIADAsINHDWmUl3wrO2zlEm1q9n6iKfCOoiPDxvNTlQD0AlthbgoAAAAAEACZ/16Cnx3JYgEAAQCeHcli',
+     token: '0064d4a074147a54c8c882fcbf31b1ac9efIAA84oZjTfjwif4dNf6sUDkha6DKl7QPeik7arcWF98eyYtWNecAAAAAEABu1Ka5ZnTJYgEAAQBmdMli',
      appId: '4d4a074147a54c8c882fcbf31b1ac9ef',
-     channelName: 'nativebyte5',
+     channelName: 'NativeByteFinal',
  };
  const VideoCalling = (props) => {
     const TextName = props.route.params;
