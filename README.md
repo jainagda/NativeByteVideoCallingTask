@@ -50,11 +50,13 @@ https://github.com/jainagda/NativeByteVideoCallingTask
 I'm a Frontend developer...
   
 ## Screenshots 
-App Icon
+ - App Icon
+
 ![Icon](https://user-images.githubusercontent.com/63839053/177988043-bc8c832e-8b51-488b-bca1-81a81b99a8c7.png)
 
-Splash Screen 
+- Splash Screen 
+
 ![splash png](https://user-images.githubusercontent.com/63839053/177988057-59613a12-404d-416d-8721-d137c540a45e.png)
 
-Dashboard 
+- Dashboard 
 ![dashborad](https://user-images.githubusercontent.com/63839053/177989930-4d017b30-e7ef-4b3a-88b1-b57efa8b881c.jpg)
