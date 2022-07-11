@@ -1,12 +1,4 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow strict-local
- */
-
- import React, {useState, useEffect, useRef} from 'react';
+import React, {useState, useEffect, useRef} from 'react';
 
  import {
      Platform,
@@ -39,9 +31,9 @@ import requestCameraAndAudioPermission from './Permission';
  import styles from './Styles';
  
  const config = {
-     token: '0064d4a074147a54c8c882fcbf31b1ac9efIAA84oZjTfjwif4dNf6sUDkha6DKl7QPeik7arcWF98eyYtWNecAAAAAEABu1Ka5ZnTJYgEAAQBmdMli',
+     token: '0064d4a074147a54c8c882fcbf31b1ac9efIAA02Um9qjtG1MTnL6V5T0zcPe2VAQbx6AgbYk/QxAJp+oIcUIMAAAAAEADLkLYo9ebMYgEAAQD05sxi',
      appId: '4d4a074147a54c8c882fcbf31b1ac9ef',
-     channelName: 'NativeByteFinal',
+     channelName: 'nativebyteVideocalling',
  };
  const VideoCalling = (props) => {
     const TextName = props.route.params;
