@@ -31,10 +31,10 @@ import requestCameraAndAudioPermission from './Permission';
  import styles from './Styles';
  
  const config = {
-     token: '0064d4a074147a54c8c882fcbf31b1ac9efIAA02Um9qjtG1MTnL6V5T0zcPe2VAQbx6AgbYk/QxAJp+oIcUIMAAAAAEADLkLYo9ebMYgEAAQD05sxi',
+     token: '0064d4a074147a54c8c882fcbf31b1ac9efIADDm8fMXKNRlZeJOez1+xG7jba83AcwBRAJNTYEJSkeLLi+BDwAAAAAEACPl0pW1TzOYgEAAQDVPM5i',
      appId: '4d4a074147a54c8c882fcbf31b1ac9ef',
-     channelName: 'nativebyteVideocalling',
- };
+     channelName: 'NativeBtye2022',
+ }
  const VideoCalling = (props) => {
     const TextName = props.route.params;
      const _engine = useRef<RtcEngine | null>(null);
